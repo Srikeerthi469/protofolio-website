@@ -48,12 +48,3 @@ FUTURE_FS_01/
 📧 Email: your-email@gmail.com
 💼 LinkedIn: https://linkedin.com/in/your-profile
 💻 GitHub: https://github.com/your-username
-
-📌 Note
-
-This project is part of an internship task and will be continuously improved by adding more features like:
-
-Resume integration
-Backend contact form (Node.js)
-Database integration (MongoDB)
-More projects
